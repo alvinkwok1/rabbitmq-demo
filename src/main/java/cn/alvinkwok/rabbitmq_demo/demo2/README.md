@@ -1,0 +1,1 @@
+该demo用于验证rabbit MQ的不同种交换机
